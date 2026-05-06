@@ -108,9 +108,6 @@ All four coefficients statistically significant at p < 0.001.
 
 ---
 
-## 👥 Team
-
-**Prateeksha Mehta** (Interpreter & Orator), Darshan Gudivada, Hanoonah Sheikh, Sri Sai Charan Donepudi
 
 ---
 
